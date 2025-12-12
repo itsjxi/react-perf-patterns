@@ -1,0 +1,21 @@
+
+
+.my-input:focus{
+    border: 1px solid rgb(162, 230, 247);
+}
+
+.my-input input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #d1d5db;
+    border-radius: 6px;
+    font-size: 14px;
+    min-height: 40px;
+    min-width: 200px;
+    border-radius: 6px;
+}
+
+.todo-input input:focus {
+    outline: none;
+    border-color: #3b82f6;
+}

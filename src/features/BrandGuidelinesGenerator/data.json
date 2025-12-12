@@ -1,0 +1,336 @@
+{
+    "version": "1.0",
+    "generated_at": "2025-12-01T12:56:00Z",
+    "source": {
+      "type": "website",
+      "identifier": "https://www.notion.com/",
+      "pages": null,
+      "language": "en"
+    },
+    "brand_summary": {
+      "brand_name": "Notion",
+      "short_description": "Notion is an all-in-one AI-powered workspace that blends workflow by providing tools for notes, docs, tasks, and project management, designed to centralize knowledge and streamline work for individuals and teams.",
+      "confidence": 0.95
+    },
+    "visual_identity": {
+      "primary_colors": [
+        {
+          "hex": "#000000",
+          "role": "primary",
+          "confidence": 0.95
+        },
+        {
+          "hex": "#FFFFFF",
+          "role": "background",
+          "confidence": 0.95
+        }
+      ],
+      "secondary_colors": [
+        {
+          "hex": "#37352F",
+          "role": "text",
+          "confidence": 0.9
+        },
+        {
+          "hex": "#F1F1EF",
+          "role": "muted_background",
+          "confidence": 0.85
+        },
+        {
+          "hex": "#787774",
+          "role": "muted_text",
+          "confidence": 0.85
+        },
+        {
+          "hex": "#CC782F",
+          "role": "accent",
+          "confidence": 0.8
+        },
+        {
+          "hex": "#D9730D",
+          "role": "accent",
+          "confidence": 0.8
+        },
+        {
+          "hex": "#0B6E99",
+          "role": "accent",
+          "confidence": 0.8
+        }
+      ],
+      "color_usage_recommendation": {
+        "background": "#FFFFFF",
+        "text": "#37352F",
+        "cta": "#0B6E99",
+        "muted": "#F1F1EF"
+      },
+      "logo_variants": [
+        {
+          "type": "wordmark",
+          "notes": "The word 'Notion' in a clean, sans-serif typeface, typically black on white or white on black.",
+          "confidence": 0.95
+        },
+        {
+          "type": "icon",
+          "notes": "A stylized 'N' or a simple geometric shape, often a black square with a white 'N' or a white square with a black 'N', sometimes appearing as a three-line or grid-like icon.",
+          "confidence": 0.9
+        }
+      ],
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg",
+      "typography": {
+        "primary_font": {
+          "name": "Inter",
+          "web_fallback": "sans-serif",
+          "confidence": 0.9
+        },
+        "secondary_font": {
+          "name": "Serif",
+          "web_fallback": "Georgia, serif",
+          "confidence": 0.8
+        },
+        "scale": {
+          "h1": "bold",
+          "h2": "semibold",
+          "body": "regular"
+        }
+      },
+      "image_style": {
+        "style": "mixed",
+        "description": "Clean, minimalist product screenshots showcasing UI, often with integrated illustrations conveying organization and collaboration, and abstract geometric elements.",
+        "confidence": 0.9
+      },
+      "iconography": {
+        "style": "line|filled",
+        "notes": "Simple, monochromatic icons, consistent with a minimalist UI, often used to represent features or actions within the workspace."
+      }
+    },
+    "verbal_identity": {
+      "tone_of_voice": {
+        "label": "Human, warm, relatable, simple, contextual",
+        "examples": [
+          "We should speak with our users instead of at them.",
+          "Warm and relatable is always better than corporate and cold.",
+          "Simple words and sentences are always preferred. Edit ruthlessly."
+        ],
+        "confidence": 0.9
+      },
+      "messaging_pillars": [
+        {
+          "id": "mp1",
+          "title": "All-in-one Workspace",
+          "one_line": "Consolidate all your tools and tasks into a single, flexible platform.",
+          "confidence": 0.9
+        },
+        {
+          "id": "mp2",
+          "title": "AI Integration",
+          "one_line": "Leverage AI to automate tasks, find answers, and enhance productivity.",
+          "confidence": 0.9
+        },
+        {
+          "id": "mp3",
+          "title": "Customization & Flexibility",
+          "one_line": "Tailor your workspace to fit unique needs, workflows, and team structures.",
+          "confidence": 0.85
+        },
+        {
+          "id": "mp4",
+          "title": "Collaboration & Knowledge Management",
+          "one_line": "Facilitate seamless teamwork and centralize all organizational knowledge.",
+          "confidence": 0.85
+        }
+      ],
+      "preferred_cta_phrases": [
+        "Get started",
+        "Request a demo",
+        "Try for free",
+        "Download",
+        "Learn more"
+      ],
+      "tagline_or_headline": {
+        "value": "The AI workspace that works for you.",
+        "confidence": 0.9
+      }
+    },
+    "audience": {
+      "segments": [
+        {
+          "id": "seg1",
+          "name": "Tech-Savvy Individuals & Freelancers",
+          "description": "Users seeking personal organization, note-taking, and project management.",
+          "confidence": 0.9
+        },
+        {
+          "id": "seg2",
+          "name": "Small to Large Businesses (SMBs & Enterprise)",
+          "description": "Teams across various sectors needing collaboration, project management, and knowledge base solutions.",
+          "confidence": 0.9
+        },
+        {
+          "id": "seg3",
+          "name": "Creative & Business Professionals",
+          "description": "Designers, writers, marketers, and project managers valuing flexibility and workflow optimization.",
+          "confidence": 0.85
+        },
+        {
+          "id": "seg4",
+          "name": "Educators & Students",
+          "description": "Users requiring tools for learning, research, and academic organization.",
+          "confidence": 0.8
+        }
+      ],
+      "recommended_segment_selectors": [
+        "Individual",
+        "Startup",
+        "SMB",
+        "Enterprise",
+        "Education",
+        "Developer",
+        "Designer",
+        "Marketing",
+        "Product Management"
+      ]
+    },
+    "keywords": {
+      "positive_keywords": [
+        "productivity",
+        "collaboration",
+        "organization",
+        "flexible",
+        "customizable",
+        "efficient",
+        "simple",
+        "powerful",
+        "AI",
+        "workspace",
+        "knowledge",
+        "streamline",
+        "intuitive",
+        "connected",
+        "versatile",
+        "integrated"
+      ],
+      "negative_keywords": [
+        "complex",
+        "cluttered",
+        "rigid",
+        "siloed",
+        "inefficient",
+        "corporate",
+        "cold",
+        "disparate tools",
+        "busywork"
+      ]
+    },
+    "accessibility": {
+      "min_contrast_pairs": [
+        {
+          "foreground": "#000000",
+          "background": "#FFFFFF",
+          "ratio": null
+        },
+        {
+          "foreground": "#37352F",
+          "background": "#F1F1EF",
+          "ratio": null
+        }
+      ],
+      "font_size_minimum": "16px"
+    },
+    "asset_recommendations": {
+      "hero": {
+        "prompt_short": "A clean hero image showcasing Notion's AI-powered workspace UI with diverse use cases, emphasizing collaboration and organization.",
+        "aspect_ratio": "16:9",
+        "variants": 3
+      },
+      "pattern": {
+        "prompt_short": "Subtle, minimalist geometric or abstract patterns using Notion's muted brand colors, suitable for backgrounds.",
+        "tileable": true
+      },
+      "icons": {
+        "style": "line",
+        "count": 15
+      },
+      "social_banners": {
+        "sizes": [
+          "1080x1080",
+          "1200x628"
+        ],
+        "variants": 3
+      }
+    },
+    "guideline_document": {
+      "overview": "Notion is an adaptable, AI-powered workspace designed to centralize knowledge, streamline projects, and foster collaboration for individuals and teams. Its brand emphasizes simplicity, human-centric communication, and a clean visual aesthetic to empower users to achieve more with less busywork.",
+      "dos": [
+        "Use clear, concise, and human-centric language.",
+        "Maintain a warm, relatable, and simple tone of voice.",
+        "Showcase the product's versatility and AI capabilities through real-world use cases.",
+        "Utilize the clean, minimalist visual style with consistent brand colors and typography.",
+        "Prioritize readability and user focus in all designs."
+      ],
+      "donts": [
+        "Employ overly corporate jargon or a cold, impersonal tone.",
+        "Create cluttered or visually inconsistent designs.",
+        "Use unapproved fonts or colors that deviate from the brand palette.",
+        "Neglect accessibility standards in design and content.",
+        "Focus solely on features without highlighting user benefits."
+      ],
+      "examples": [
+        {
+          "use_case": "Email Header",
+          "markup_snippet": "<header style='background-color:#FFFFFF; padding: 20px; text-align: center;'><img src='https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg' alt='Notion Logo' height='30'/><h1 style='font-family:Inter, sans-serif; color:#37352F; font-size:24px;'>Your AI Workspace</h1></header>"
+        },
+        {
+          "use_case": "Social Media Banner (1200x628)",
+          "markup_snippet": "<div style='background-color:#F1F1EF; display:flex; align-items:center; justify-content:space-around; padding:20px;'><img src='[PRODUCT_SCREENSHOT_URL]' alt='Notion UI' style='width:50%;'/><div style='width:40%; text-align:left;'><h2 style='font-family:Inter, sans-serif; color:#37352F;'>One workspace. Zero busywork.</h2><button style='background-color:#0B6E99; color:#FFFFFF; padding:10px 20px; border:none; border-radius:5px; font-family:Inter, sans-serif;'>Get Started Free</button></div></div>"
+        }
+      ]
+    },
+    "sub_prompts": {
+      "for_image_generation": {
+        "hero_prompt": "A clean hero image for Notion: style=minimalist product screenshots with integrated illustrations; dominant_palette={{primary_colors}}, {{secondary_colors}}; mood=efficient, organized, collaborative; composition: Notion UI showcasing AI features and diverse use cases, with left negative space for headline; no logos; deliver 3 variants; aspect_ratio=16:9; avoid={{negative_keywords}}.",
+        "pattern_prompt": "Subtle, minimalist geometric or abstract patterns using Notion's muted brand colors (e.g., #F1F1EF, #787774), tileable, for digital backgrounds; avoid={{negative_keywords}}.",
+        "social_prompt": "A social media banner for Notion: style=clean, clear messaging, product screenshots or simple illustrations; dominant_palette={{primary_colors}}, {{secondary_colors}}; mood=empowering, productive; content: highlight 'AI workspace' or 'zero busywork'; deliver 3 variants; sizes={{social_banners.sizes}}; avoid={{negative_keywords}}.",
+        "negative_prompts": [
+          "cluttered",
+          "busy",
+          "corporate",
+          "cold",
+          "outdated UI",
+          "complex",
+          "unorganized"
+        ]
+      },
+      "for_html_template_generation": {
+        "main_prompt": "Generate a clean, minimalist HTML landing page template for Notion, incorporating {{primary_colors}}, {{secondary_colors}}, and {{typography.primary_font.name}} (fallback: {{typography.primary_font.web_fallback}}). Include a hero section with the tagline '{{tagline_or_headline.value}}', a clear CTA '{{preferred_cta_phrases[0]}}', a features section highlighting '{{messaging_pillars[0].title}}', '{{messaging_pillars[1].title}}', and '{{messaging_pillars[2].title}}' with corresponding icons (placeholder for now), and a simple footer. Ensure the design is responsive and reflects a human, relatable tone. Use placeholders for images based on {{image_style.description}}.",
+        "variants": [
+          "compact",
+          "spacious",
+          "editorial"
+        ]
+      },
+      "ppt_specific_prompts": null,
+      "pdf_doc_specific_prompts": null
+    },
+    "storage_instructions": {
+      "theme_id": "notion-workspace-ai",
+      "name_suggestion": "Notion AI Workspace",
+      "version": "v1",
+      "save_payload": "Store the entire JSON object as a new brand theme.",
+      "tags": [
+        "productivity",
+        "workspace",
+        "AI",
+        "collaboration",
+        "SaaS",
+        "minimalist"
+      ]
+    },
+    "confidence_breakdown": {
+      "colors": 0.9,
+      "fonts": 0.9,
+      "tone": 0.9,
+      "imagery": 0.85
+    },
+    "notes": "Color hex codes for secondary colors are representative of Notion's extensive palette; specific CTA and muted colors are inferred for recommendation. Font scale is generalized."
+  }
+  
