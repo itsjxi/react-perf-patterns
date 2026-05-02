@@ -1,31 +1,6 @@
-.app {
-  min-height: 100vh;
-  background: #f1f5f9;
-}
-
-.app-header {
-  background: white;
-  padding: 24px;
-  text-align: center;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
-  margin-bottom: 24px;
-}
-
-.app-header h1 {
-  margin: 0 0 8px 0;
-  color: #1f2937;
-  font-size: 28px;
-  font-weight: 600;
-}
-
-.app-header p {
-  margin: 0;
-  color: #6b7280;
-  font-size: 16px;
-}
-
-.app-main {
-  padding: 0 24px 24px;
-  max-width: 1200px;
+#root {
+  max-width: 1280px;
   margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
 }
