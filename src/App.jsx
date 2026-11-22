@@ -1,11 +1,18 @@
-import './App.css'
+import './App.css';
+import ConcurrentProgressBar from './features/concurrentProgressBar/index.jsx';
+import InfiniteScroll from './features/infiniteScroll/index.jsx';
+import OTPComponent from './features/otp/index.jsx';
+import Timer  from './features/timer/index.jsx';
+import ToastContainer from './features/toastNotification/index.jsx';
 
-function App() {
+export default function App() {
   return (
-    <div className="app">
-      <h1>Hello React</h1>
-    </div>
-  )
+    <>
+      {/* <ConcurrentProgressBar />
+      <InfiniteScroll /> */}
+      {/* <Timer/> */}
+      {/* <ToastContainer/> */}
+      <OTPComponent/>
+    </>
+  );
 }
-
-export default App

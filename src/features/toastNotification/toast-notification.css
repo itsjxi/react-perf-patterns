@@ -1,0 +1,83 @@
+.toast-container {
+    position: fixed;
+    right: 0.5rem;
+    top: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    z-index: 10;
+}
+
+.toast-buttons {
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    display: flex;
+    gap: 10px;
+}
+
+.toast {
+    display: flex;
+    gap: 20px;
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: 1px solid lightgray;
+    animation: slide 1s ;
+    color: white;
+    position: relative;
+}
+
+.toast-success{
+    background-color: rgb(85, 175, 85);
+}
+ .toast-info{
+    background-color: rgb(84, 96, 183);
+}
+.toast-warning{
+    background-color: rgb(239, 165, 74);
+}
+
+.toast-error{
+    background-color: rgb(243, 57, 5);
+}
+
+.toast span:nth-child(1){
+    padding-right: 40px;
+}
+
+.toast span:nth-child(2){
+ border: 1px solid lightgray; 
+ padding: 4px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ width: 20px;
+ height: 20px;
+ font-size: 14px;
+ border-radius: 50%;
+ position: absolute;
+ right: 5px;
+}
+
+@keyframes slide {
+    0% {
+        transform: translateX(100%);
+    }
+    100%  {
+        transform: translateX(0%);
+    }
+}
+
+.toast-buttons  .toast-button-success{
+    background-color: rgb(85, 175, 85);
+}
+.toast-buttons  .toast-button-info{
+    background-color: rgb(84, 96, 183);
+}
+.toast-buttons  .toast-button-warning{
+    background-color: rgb(239, 165, 74);
+}
+
+.toast-buttons  .toast-button-error{
+    background-color: rgb(243, 57, 5);
+}
